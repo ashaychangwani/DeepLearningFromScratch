@@ -10,7 +10,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('Datasets/iris.csv', header = None)
+df = pd.read_csv('iris.csv', header = None)
 
 df.columns=["Feature 1", "Feature 2", "Feature 3", "Feature 4", "Class"]
 
