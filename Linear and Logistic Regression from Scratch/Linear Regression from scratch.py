@@ -7,7 +7,6 @@ Created on Tue Sep 29 17:39:33 2020
 
 import numpy as np
 import pandas as pd
-from sklearn.preprocessing import OneHotEncoder
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 
